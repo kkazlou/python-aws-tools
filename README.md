@@ -12,3 +12,7 @@ Count and Categorize Files
 ```
 python aws-s3-count-files.py
 ```
+Check and manage file versions
+```
+python aws-s3-check-file-versions.py
+```
